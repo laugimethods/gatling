@@ -24,6 +24,7 @@ Third Parties
 * `Kafka plugin <https://github.com/mnogu/gatling-kafka>`_
 * `RabbitMQ plugin <https://github.com/maiha/gatling-amqp>`_
 * `AMQP plugin <https://github.com/maiha/gatling-amqp>`_
+* `NATS Gatling Connector <https://github.com/Logimethods/nats-connector-gatling>`_
 
 .. warning::
   Those projects are third parties and are not maintained by the Gatling core committers.
